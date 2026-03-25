@@ -6,6 +6,11 @@
 #
 
 #
+# Homebrew Completions\
+#
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
+#
 # Browser
 #
 
