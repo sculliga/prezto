@@ -56,11 +56,6 @@ path=(
 )
 
 #
-# Homebrew Completions
-#
-eval "$(brew shellenv)"
-
-#
 # Less
 #
 
